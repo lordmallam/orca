@@ -1,0 +1,29 @@
+{
+  "name": "ais-viewer-mobile",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "lint": "eslint .",
+    "prebuild": "expo prebuild --clean"
+  },
+  "dependencies": {
+    "@rnmapbox/maps": "^10.2.0",
+    "axios": "^1.7.0",
+    "expo": "~54.0.31",
+    "expo-dev-client": "~6.0.20",
+    "expo-status-bar": "~3.0.9",
+    "ngeohash": "^0.6.3",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "@types/ngeohash": "^0.6.4",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
