@@ -7,6 +7,8 @@ A real-time vessel tracking system that ingests AIS (Automatic Identification Sy
 ![Frontend](https://img.shields.io/badge/Frontend-React%20Native-61DAFB)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL%20%2B%20PostGIS-336791)
 
+https://github.com/user-attachments/assets/eaa60632-9a3e-4f53-a236-82e0fced79cd
+
 ## Architecture
 
 ```
