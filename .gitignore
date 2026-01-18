@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+docker-compose.override.yml
+
+# React Native
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+mobile/dist/
+mobile/npm-debug.*
+mobile/yarn-error.log
+mobile/yarn.lock
+mobile/package-lock.json
+mobile/ios/Pods/
+mobile/ios/build/
+mobile/android/app/build/
+mobile/android/.gradle/
+mobile/android/build/
+mobile/.bundle/
+mobile/metro.config.js
+
+# Testing
+.coverage
+coverage/
+test-results/
+
